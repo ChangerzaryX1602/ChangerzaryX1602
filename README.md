@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChangerzaryX1602&theme=default&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChangerzaryX1602?cardType=level&theme=github&preferLogin=false&Ring=0E75B6&Title=0E75B6" alt="GitHub Stats" />
 </div>
 
 ---
@@ -36,10 +36,10 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChangerzaryX1602&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=FF6E4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0E75B6&sideLabels=0E75B6&dates=8B949E" alt="GitHub Streak Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=ChangerzaryX1602&theme=dark" alt="GitHub Contribution Stats" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChangerzaryX1602&theme=algolia&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8&rank=-?" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
