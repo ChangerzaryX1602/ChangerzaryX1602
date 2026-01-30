@@ -36,7 +36,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=1" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=2" alt="trophies" />
 </p>
 
 ### 🔗 Connect with Me
@@ -126,41 +126,19 @@
 
 ---
 
-### ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AueaarriDeephonngam/FingerSignalCall">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AueaarriDeephonngam&repo=FingerSignalCall&theme=default&hide_border=true" alt="FingerSignalCall" />
-  </a>
-  <a href="https://github.com/ChangerzaryX1602/chatchanan-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChangerzaryX1602&repo=chatchanan-portfolio&theme=default&hide_border=true" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ChangerzaryX1602/chang-info">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChangerzaryX1602&repo=chang-info&theme=default&hide_border=true" alt="Chang Info" />
-  </a>
-  <a href="https://github.com/ChangerzaryX1602/SkillSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChangerzaryX1602&repo=SkillSync&theme=default&hide_border=true" alt="SkillSync" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChangerzaryX1602&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChangerzaryX1602&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChangerzaryX1602&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChangerzaryX1602&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ChangerzaryX1602&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChangerzaryX1602&theme=default" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ChangerzaryX1602" alt="GitHub Contribution Chart" />
 </p>
 
 ---
@@ -186,7 +164,7 @@
 ### 🎯 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" alt="All Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&row=2" alt="All Trophies" />
 </p>
 
 ---
