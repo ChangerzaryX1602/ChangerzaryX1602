@@ -28,7 +28,7 @@
 - 🎯 **Graduating:** May 2026
 - 🌍 **Location:** Khon Kaen, Thailand 🇹🇭
 - 📫 **Email:** changnoi2547@gmail.com
-- 🌐 **Portfolio:** [chatchanan-portfolio.vercel.app](https://chatchanan-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [portfolio.mysterchat.com](https://portfolio.mysterchat.com/)
 - 🎂 **Birthday:** February 16
 - ⚡ **Fun fact:** I debug with `console.log()` 😄
 
@@ -72,7 +72,7 @@
   <a href="mailto:changnoi2547@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://chatchanan-portfolio.vercel.app" target="_blank">
+  <a href="https://portfolio.mysterchat.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
