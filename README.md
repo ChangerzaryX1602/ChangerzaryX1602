@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chatchanan Panyaprasirtkit</h1>
-<h3 align="center">Full Stack Developer & DevOps Engineer from Thailand 🇹🇭</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Computer+Engineering+Student+%F0%9F%8E%93;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChangerzaryX1602&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/ChangerzaryX1602?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ChangerzaryX1602?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
 ---
@@ -17,6 +24,13 @@
 - 📫 **Email:** changnoi2547@gmail.com
 - 🌐 **Portfolio:** [chatchanan-portfolio.vercel.app](https://chatchanan-portfolio.vercel.app/)
 - 🎂 **Birthday:** February 16
+
+---
+
+### 💭 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+</p>
 
 ---
 
@@ -112,6 +126,28 @@
 
 ---
 
+### ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AueaarriDeephonngam/FingerSignalCall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AueaarriDeephonngam&repo=FingerSignalCall&theme=default&hide_border=true" alt="FingerSignalCall" />
+  </a>
+  <a href="https://github.com/ChangerzaryX1602/chatchanan-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChangerzaryX1602&repo=chatchanan-portfolio&theme=default&hide_border=true" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChangerzaryX1602/chang-info">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChangerzaryX1602&repo=chang-info&theme=default&hide_border=true" alt="Chang Info" />
+  </a>
+  <a href="https://github.com/ChangerzaryX1602/SkillSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChangerzaryX1602&repo=SkillSync&theme=default&hide_border=true" alt="SkillSync" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -123,6 +159,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChangerzaryX1602&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChangerzaryX1602&theme=default" alt="Profile Summary" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChangerzaryX1602&theme=github-light&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChangerzaryX1602/ChangerzaryX1602/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChangerzaryX1602/ChangerzaryX1602/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChangerzaryX1602/ChangerzaryX1602/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🎯 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" alt="All Trophies" />
+</p>
+
 ---
 
 <p align="center">
@@ -131,5 +197,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChangerzaryX1602&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <br/>
+  <i>💙 Thanks for visiting! Let's connect and build something amazing together!</i>
 </p>
 
