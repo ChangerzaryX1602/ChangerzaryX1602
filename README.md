@@ -1,157 +1,160 @@
-<h1 align="center">Hi 👋, I'm Chatchanan Panyaprasirtkit</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Chatchanan;Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Computer+Engineering+Student+%F0%9F%8E%93;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1e3a8a&height=120&section=header&text=&fontSize=0" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChangerzaryX1602&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/ChangerzaryX1602?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ChangerzaryX1602?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=ChangerzaryX1602&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/ChangerzaryX1602?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ChangerzaryX1602?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub stars" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChangerzaryX1602&theme=default&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🙋‍♂️ About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🎓 **Computer Engineering Student** (Year 4) at Khon Kaen University
 - 🐘 **Nickname:** Chang
 - 💼 Working part-time at **2 companies** while studying
 - 🎯 **Graduating:** May 2026
-- 🌍 **Location:** Khon Kaen, Thailand
+- 🌍 **Location:** Khon Kaen, Thailand 🇹🇭
 - 📫 **Email:** changnoi2547@gmail.com
 - 🌐 **Portfolio:** [chatchanan-portfolio.vercel.app](https://chatchanan-portfolio.vercel.app/)
 - 🎂 **Birthday:** February 16
+- ⚡ **Fun fact:** I debug with `console.log()` 😄
+
+<br clear="right"/>
 
 ---
 
-### 💭 Random Dev Quote
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChangerzaryX1602&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=FF6E4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0E75B6&sideLabels=0E75B6&dates=8B949E" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=2" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChangerzaryX1602&theme=algolia&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8&rank=-?" alt="GitHub Trophies" />
 </p>
 
-### 🔗 Connect with Me
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://fb.com/chang.cp.58" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/mysterchat_py" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:changnoi2547@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://chatchanan-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/>
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cpp,dart&perline=7" alt="Languages" />
 </p>
 
-#### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte,flutter,tailwind,html,css&perline=8" alt="Frontend" />
 </p>
 
-#### Backend & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/>
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,spring&perline=5" alt="Backend" />
 </p>
 
-#### Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/>
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" alt="Databases" />
 </p>
 
-#### DevOps & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+### 🔧 DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,nginx,jenkins,linux,vscode,postman&perline=8" alt="DevOps" />
 </p>
 
-#### Cloud & Services
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+### ☁️ Cloud & Services
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,vercel&perline=5" alt="Cloud" />
 </p>
 
-#### AI/ML & Data Science
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+### 🤖 AI/ML & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" alt="AI/ML" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChangerzaryX1602&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ChangerzaryX1602&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChangerzaryX1602&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ChangerzaryX1602&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChangerzaryX1602&theme=default" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ChangerzaryX1602" alt="GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChangerzaryX1602&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🌊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChangerzaryX1602&theme=github-light&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChangerzaryX1602&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0E75B6/ChangerzaryX1602" alt="GitHub Contribution Chart" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChangerzaryX1602/ChangerzaryX1602/output/github-contribution-grid-snake-dark.svg">
@@ -159,23 +162,65 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChangerzaryX1602/ChangerzaryX1602/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-### 🎯 GitHub Metrics
-
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ChangerzaryX1602&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&row=2" alt="All Trophies" />
+  <img src="https://raw.githubusercontent.com/ChangerzaryX1602/ChangerzaryX1602/output/ocean.gif" width="100%" alt="Snake eating contributions" />
 </p>
 
 ---
 
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+## 📊 Detailed Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChangerzaryX1602&theme=tokyonight" alt="Repos per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChangerzaryX1602&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChangerzaryX1602&theme=tokyonight&utcOffset=7" alt="Productive Time" width="32%"/>
+</div>
+
+---
+
+## 🎯 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/ChangerzaryX1602/SkillSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ChangerzaryX1602&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="SkillSync" />
+  </a>
+  <a href="https://github.com/ChangerzaryX1602/Portfolio">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ChangerzaryX1602&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+## 🎨 GitHub Skyline
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChangerzaryX1602&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <br/>
-  <i>💙 Thanks for visiting! Let's connect and build something amazing together!</i>
+  <a href="https://skyline.github.com/ChangerzaryX1602/2024">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-2024-0E75B6?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+  </a>
 </p>
 
+---
+
+## 💡 Random Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1e3a8a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
+</p>
+
+<div align="center">
+  
+### 💙 Thanks for visiting! Let's connect and build something amazing together!
+
+[![](https://visitcount.itsvg.in/api?id=ChangerzaryX1602&icon=6&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
