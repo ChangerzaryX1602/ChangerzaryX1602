@@ -51,10 +51,10 @@
 
 ### ⚙️ **Backend Development**
 - High-performance APIs with **Go (Golang)**
-- Scalable services with **Node.js & NestJS**
-- RESTful & GraphQL APIs
+- Scalable services with **Node.js**
+- **RESTful APIs, gRPC, SOAP, XML** protocols
 - Microservices architecture
-- Real-time communication with **gRPC**
+- Real-time communication & event-driven systems
 
 </td>
 <td width="50%">
@@ -91,9 +91,9 @@
 
 | Type | Availability | Details |
 |:----:|:------------:|:--------|
-| 🚀 **Freelance Projects** | ✅ **Now** | SvelteKit/Next.js apps, Go/Node.js APIs, DevOps setup |
+| 🚀 **Freelance Projects** | ✅ **Now** | SvelteKit/Next.js apps, Go/Node.js APIs (REST/gRPC/SOAP), DevOps |
 | 💻 **Part-time Work** | ✅ **Now** | Remote or On-site (Khon Kaen/Bangkok) |
-| 🎓 **Full-time Position** | 📅 **May 2026+** | Backend (Go/Node.js), Full-stack, DevOps Engineer |
+| 🎓 **Full-time Position** | 📅 **May 2026+** | Backend Engineer (Go/Node.js), Full-stack, DevOps |
 
 **💼 Work Mode:** Fully Remote or Hybrid/On-site in **Khon Kaen** or **Bangkok**
 
@@ -163,7 +163,7 @@
 ### ⚙️ Backend & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,spring&perline=5" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,flask,spring&perline=5" alt="Backend" />
 </p>
 
 ### 🗄️ Databases
