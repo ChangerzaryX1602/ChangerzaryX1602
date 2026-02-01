@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/github/stars/ChangerzaryX1602?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub stars" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for_Freelance-Hire_Me!-00D9FF?style=for-the-badge&labelColor=0E75B6" alt="Available for Freelance" />
+  <img src="https://img.shields.io/badge/Work_Location-Remote_or_Onsite-FF6B6B?style=for-the-badge&labelColor=0E75B6" alt="Work Location" />
+  <img src="https://img.shields.io/badge/Graduating-May_2026-4ECDC4?style=for-the-badge&labelColor=0E75B6" alt="Graduating" />
+</p>
+
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChangerzaryX1602?cardType=level&theme=github&preferLogin=false&Ring=0E75B6&Title=0E75B6" alt="GitHub Stats" />
 </div>
@@ -34,7 +40,9 @@
 
 <br clear="right"/>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=2" width="100%" />
+</p>
 
 ## 💼 Professional Experience & What I Can Build
 
@@ -51,7 +59,8 @@
 
 ### ⚙️ **Backend Development**
 - High-performance APIs with **Go (Golang)**
-- Scalable services with **Node.js**
+- Ultra-fast edge computing with **Hono**
+- Scalable services with **Node.js & Express**
 - **RESTful APIs, gRPC, SOAP, XML** protocols
 - Microservices architecture
 - Real-time communication & event-driven systems
@@ -81,7 +90,9 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=2" width="100%" />
+</p>
 
 ## 🎯 Open for Opportunities
 
@@ -97,7 +108,11 @@
 
 **💼 Work Mode:** Fully Remote or Hybrid/On-site in **Khon Kaen** or **Bangkok**
 
-**Let's build something amazing together!** 💙
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Ready+to+turn+ideas+into+reality!;Fast,+Reliable,+Professional!" alt="Call to Action" />
+</p>
 
 </div>
 
@@ -163,7 +178,7 @@
 ### ⚙️ Backend & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,flask,spring&perline=5" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,hono,go,flask,spring&perline=6" alt="Backend" />
 </p>
 
 ### 🗄️ Databases
