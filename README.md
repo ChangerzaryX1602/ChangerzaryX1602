@@ -39,7 +39,7 @@
 ## 🔥 Contribution Stats
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ChangerzaryX1602&theme=dark" alt="GitHub Contribution Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChangerzaryX1602&theme=dark" alt="GitHub Contribution Stats" />
 </p>
 
 ---
