@@ -24,15 +24,77 @@
 
 - 🎓 **Computer Engineering Student** (Year 4) at Khon Kaen University
 - 🐘 **Nickname:** Chang
-- 💼 Working part-time at **2 companies** while studying
+- 💼 **Currently working part-time at 2 companies** while studying
 - 🎯 **Graduating:** May 2026
 - 🌍 **Location:** Khon Kaen, Thailand 🇹🇭
 - 📫 **Email:** changnoi2547@gmail.com
 - 🌐 **Portfolio:** [portfolio.mysterchat.com](https://portfolio.mysterchat.com/)
 - 🎂 **Birthday:** February 16
-- ⚡ **Fun fact:** I debug with `console.log()` 😄
+- ⚡ **Available for freelance work & full-time opportunities (starting May 2026)**
 
 <br clear="right"/>
+
+---
+
+## 💼 Professional Experience & What I Can Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Full-Stack Development**
+- Modern web applications with **React, Next.js, Angular**
+- Responsive UI/UX with **Tailwind CSS**
+- Real-time applications with **WebSocket**
+- Mobile apps with **Flutter**
+
+### ⚙️ **Backend & DevOps**
+- RESTful APIs with **Node.js, NestJS, Go**
+- Microservices architecture
+- **Docker, Kubernetes** deployment
+- **CI/CD** pipeline automation
+- Cloud platforms: **GCP, AWS, Azure**
+
+</td>
+<td width="50%">
+
+### 🗄️ **Database & Infrastructure**
+- **PostgreSQL, MySQL, MongoDB, Redis**
+- Database design & optimization
+- Data migration & management
+
+### 🤖 **AI/ML Integration**
+- **TensorFlow, PyTorch** model deployment
+- Computer Vision with **OpenCV**
+- AI-powered applications
+
+### 💡 **What Makes Me Different**
+- ✅ Proven experience working at 2 companies simultaneously
+- ✅ Quick learner with diverse tech stack
+- ✅ Full-stack capability from frontend to deployment
+- ✅ Strong problem-solving skills
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Open for Opportunities
+
+<div align="center">
+
+### 💼 **Actively Seeking:**
+
+| Type | Availability | Details |
+|:----:|:------------:|:--------|
+| 🚀 **Freelance Projects** | ✅ **Now** | Web/Mobile apps, APIs, DevOps setup |
+| 💻 **Part-time Work** | ✅ **Now** | Remote or Khon Kaen area |
+| 🎓 **Full-time Position** | 📅 **May 2026+** | Backend, Full-stack, DevOps Engineer |
+
+**Let's build something amazing together!** 💙
+
+</div>
 
 ---
 
@@ -174,19 +236,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChangerzaryX1602&theme=tokyonight" alt="Repos per Language" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChangerzaryX1602&theme=tokyonight" alt="Most Commit Language" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChangerzaryX1602&theme=tokyonight&utcOffset=7" alt="Productive Time" width="32%"/>
-</div>
-
----
-
-## 🎯 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/ChangerzaryX1602/SkillSync">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ChangerzaryX1602&repo=SkillSync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="SkillSync" />
-  </a>
-  <a href="https://github.com/ChangerzaryX1602/Portfolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ChangerzaryX1602&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" alt="Portfolio" />
-  </a>
 </div>
 
 ---
