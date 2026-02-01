@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1e3a8a&height=120&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0E75B6,50:FF6B6B,100:FFD700&height=180&section=header" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+%F0%9F%92%BB;READY+FOR+ACTION+%E2%9A%A1;LET'S+BUILD+TOGETHER+%F0%9F%9A%80" alt="Animated Banner" />
 </p>
 
 <p align="center">
@@ -41,7 +45,7 @@
 <br clear="right"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0E75B6,100:4ECDC4&height=100&section=header" width="100%" />
 </p>
 
 ## 💼 Professional Experience & What I Can Build
@@ -91,7 +95,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,50:FFD700,100:4ECDC4&height=130&section=header&text=OPEN%20FOR%20OPPORTUNITIES&fontSize=28&fontColor=fff&animation=twinkling" width="100%" />
 </p>
 
 ## 🎯 Open for Opportunities
@@ -116,7 +120,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120&section=footer" width="100%" />
+</p>
 
 ## 🔥 Contribution Stats
 
@@ -199,7 +205,9 @@
   <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,vercel&perline=5" alt="Cloud" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0E75B6,100:FFD700&height=120" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 
