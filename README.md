@@ -26,7 +26,7 @@
 - 🐘 **Nickname:** Chang
 - 💼 **Currently working part-time at 2 companies** while studying
 - 🎯 **Graduating:** May 2026
-- 🌍 **Location:** Khon Kaen, Thailand 🇹🇭
+- 🌍 **Work Location:** Remote or On-site (Khon Kaen / Bangkok)
 - 📫 **Email:** changnoi2547@gmail.com
 - 🌐 **Portfolio:** [portfolio.mysterchat.com](https://portfolio.mysterchat.com/)
 - 🎂 **Birthday:** February 16
@@ -42,18 +42,19 @@
 <tr>
 <td width="50%">
 
-### 🚀 **Full-Stack Development**
-- Modern web applications with **React, Next.js, Angular**
+### 🚀 **Frontend Development**
+- Modern web applications with **SvelteKit & Next.js**
 - Responsive UI/UX with **Tailwind CSS**
 - Real-time applications with **WebSocket**
 - Mobile apps with **Flutter**
+- Type-safe development with **TypeScript**
 
-### ⚙️ **Backend & DevOps**
-- RESTful APIs with **Node.js, NestJS, Go**
+### ⚙️ **Backend Development**
+- High-performance APIs with **Go (Golang)**
+- Scalable services with **Node.js & NestJS**
+- RESTful & GraphQL APIs
 - Microservices architecture
-- **Docker, Kubernetes** deployment
-- **CI/CD** pipeline automation
-- Cloud platforms: **GCP, AWS, Azure**
+- Real-time communication with **gRPC**
 
 </td>
 <td width="50%">
@@ -63,16 +64,18 @@
 - Database design & optimization
 - Data migration & management
 
-### 🤖 **AI/ML Integration**
-- **TensorFlow, PyTorch** model deployment
-- Computer Vision with **OpenCV**
-- AI-powered applications
+### 🛠️ **DevOps & Cloud**
+- **Docker, Kubernetes** deployment
+- **CI/CD** pipeline automation
+- Cloud platforms: **GCP, AWS, Azure**
+- Infrastructure as Code
 
 ### 💡 **What Makes Me Different**
 - ✅ Proven experience working at 2 companies simultaneously
 - ✅ Quick learner with diverse tech stack
 - ✅ Full-stack capability from frontend to deployment
 - ✅ Strong problem-solving skills
+- ✅ Flexible: Remote or On-site (Khon Kaen/Bangkok)
 
 </td>
 </tr>
@@ -88,9 +91,11 @@
 
 | Type | Availability | Details |
 |:----:|:------------:|:--------|
-| 🚀 **Freelance Projects** | ✅ **Now** | Web/Mobile apps, APIs, DevOps setup |
-| 💻 **Part-time Work** | ✅ **Now** | Remote or Khon Kaen area |
-| 🎓 **Full-time Position** | 📅 **May 2026+** | Backend, Full-stack, DevOps Engineer |
+| 🚀 **Freelance Projects** | ✅ **Now** | SvelteKit/Next.js apps, Go/Node.js APIs, DevOps setup |
+| 💻 **Part-time Work** | ✅ **Now** | Remote or On-site (Khon Kaen/Bangkok) |
+| 🎓 **Full-time Position** | 📅 **May 2026+** | Backend (Go/Node.js), Full-stack, DevOps Engineer |
+
+**💼 Work Mode:** Fully Remote or Hybrid/On-site in **Khon Kaen** or **Bangkok**
 
 **Let's build something amazing together!** 💙
 
@@ -177,12 +182,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,vercel&perline=5" alt="Cloud" />
-</p>
-
-### 🤖 AI/ML & Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" alt="AI/ML" />
 </p>
 
 ---
