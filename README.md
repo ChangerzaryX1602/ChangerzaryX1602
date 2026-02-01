@@ -184,7 +184,11 @@
 ### ⚙️ Backend & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,hono,go,flask,spring&perline=6" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,flask,spring&perline=5" alt="Backend" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=&logoColor=white" alt="Hono" />
 </p>
 
 ### 🗄️ Databases
