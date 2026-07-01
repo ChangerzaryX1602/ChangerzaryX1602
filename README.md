@@ -40,7 +40,7 @@
 - 📫 **Email:** changnoi2547@gmail.com
 - 🌐 **Portfolio:** [portfolio.mysterchat.com](https://portfolio.mysterchat.com/)
 - 🎂 **Birthday:** February 16
-- ⚡ **Available for freelance work & full-time opportunities (starting May 2026)**
+- ⚡ **Available for freelance work & full-time opportunities**
 
 <br clear="right"/>
 
