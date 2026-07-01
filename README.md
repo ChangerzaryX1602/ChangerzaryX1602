@@ -32,10 +32,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Computer Engineering Student(Graduated)** at Khon Kaen University
+- 🎓 **Computer Engineering Student (Graduated)** at Khon Kaen University
 - 🐘 **Nickname:** Chang
 - 💼 **Currently working at** AIS3BB Fibre3
-- 🎯 **Graduating:** May 2026
 - 🌍 **Work Location:** Remote or On-site (Khon Kaen / Bangkok)
 - 📫 **Email:** changnoi2547@gmail.com
 - 🌐 **Portfolio:** [portfolio.mysterchat.com](https://portfolio.mysterchat.com/)
