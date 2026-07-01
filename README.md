@@ -32,9 +32,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Computer Engineering Student** (Year 4) at Khon Kaen University
+- 🎓 **Computer Engineering Student(Graduated)** at Khon Kaen University
 - 🐘 **Nickname:** Chang
-- 💼 **Currently working part-time at 2 companies** while studying
+- 💼 **Currently working at** AIS3BB Fibre3
 - 🎯 **Graduating:** May 2026
 - 🌍 **Work Location:** Remote or On-site (Khon Kaen / Bangkok)
 - 📫 **Email:** changnoi2547@gmail.com
@@ -84,7 +84,6 @@
 - Infrastructure as Code
 
 ### 💡 **What Makes Me Different**
-- ✅ Proven experience working at 2 companies simultaneously
 - ✅ Quick learner with diverse tech stack
 - ✅ Full-stack capability from frontend to deployment
 - ✅ Strong problem-solving skills
@@ -101,14 +100,6 @@
 ## 🎯 Open for Opportunities
 
 <div align="center">
-
-### 💼 **Actively Seeking:**
-
-| Type | Availability | Details |
-|:----:|:------------:|:--------|
-| 🚀 **Freelance Projects** | ✅ **Now** | SvelteKit/Next.js apps, Go/Node.js APIs (REST/gRPC/SOAP), DevOps |
-| 💻 **Part-time Work** | ✅ **Now** | Remote or On-site (Khon Kaen/Bangkok) |
-| 🎓 **Full-time Position** | 📅 **May 2026+** | Backend Engineer (Go/Node.js), Full-stack, DevOps |
 
 **💼 Work Mode:** Fully Remote or Hybrid/On-site in **Khon Kaen** or **Bangkok**
 
